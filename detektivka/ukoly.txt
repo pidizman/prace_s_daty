@@ -1,0 +1,41 @@
+Zahrajte si na informaèní detektivy a zjistìte požadovaná fakta o následujících souborech:
+1. Soubor divny.txt:
+    a) Jaké má soubor pøiøazeny atributy a kdy byl vytvoøen i zmìnìn?
+    Atributy RHA vytvoøen ?støeda ?6. ?listopadu ?2024, ??9:01:05 zmìnìn pátek ?19. ?øíjna ?2012, ??22:25:32
+    b) V jakém znakovém kódování je uložen?
+    UTF-8
+    c) V jakém jazyce je napsán jeho obsah?
+    Japonština
+    d) O èem text pojednává a z jakého internetového zdroje pochází (ideálnì uveïte pøesnou URL adresu)?
+    https://cs.wikipedia.org/wiki/Praha
+2. Soubor city.jpg:
+    a) Jaké rozmìry má tato fotka (v pixelech)?
+    1366x768
+    b) Jak se jmenuje mìsto na obrázku?
+    Nairobi
+    c) Kde se toto mìsto pøesnì nachází (uveïte stát i kontinent)?
+    Kenya Afrika
+    d) Zjistìte aspoò GPS souøadnice nejvyšší budovy na fotce?
+    J: 1.2860° V: 36.8188° (Britam Tower)
+    e) Co se v této budovì nachází?
+    Kanceláøské prostory, Obchodní prostory, Byty, Vyhlídková plošina, Parkovištì
+3. Soubor person.jpg:
+    a) Jaké jsou bitová hloubka a rozlišení tohoto obrázku?
+    24bit, 900x900
+    b) Kdo je na této fotografii (jméno, pøíjmení, národnost, povolání)?
+    Katalin Nováková Maïarka Bývalá prezidentka
+    c) Uveïte adresu aspoò jednoho profilu této osoby na sociálních sítích.
+    https://www.facebook.com/novak.katalin.official/
+    d) Najdìte na internetu co nejaktuálnìjší èlánek v èeském jazyce, v nìmž je jméno této osoby zmínìno.
+    https://www.seznamzpravy.cz/clanek/zahranicni-byvala-madarska-prezidentka-se-stala-sefkou-nevladni-organizace-259333
+4. Soubor flag.png:
+    a) Jaká jsou bitová hloubka a rozmìry tohoto obrázku?
+   8bit 580x387px
+    b) Vlajka kterého státu je na obrázku? 
+    Bhután
+    c) Najdìte bližší informace o tomto státu: rozlohu, poèet obyvatel, hlavní mìsto
+    Populace:787 424 (2023); Rozloha: 38 394 km2; Hlavní mìsto: Thimphu
+    d) Zjistìte pøesné barvy (RGB v desítkové i šestnáctkové soustavì) obou trojúhelníkových blokù v pozadí vlajky.
+	Žlutá 255, 205, 0 FFCD00
+	Oranžová 255, 103, 32 FF6720
+       

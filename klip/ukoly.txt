@@ -1,0 +1,17 @@
+1. Zjistìte detailní informace o staženém videoklipu:
+    a) Jména interpretù i název hudební skupiny.
+    2CELLOS
+    b) Název skladby.
+    Game Of Thrones Medley
+    c) S jakým seriálem je tato skladba spojena? Kdo je autorem scénáøe?
+    Game Of Thrones George R.R. Martin, David Benioff, Vanessa Taylor, D.B. Weiss, Bryan Cogman, Jane Espensonová, Dave Hill
+    d) V kterém mìstì a státì se tento klip natáèel? Tušíte proè?
+    Chorvatsko Hvar, Jedná se o pøipojení k serii Hry o trùny a 2CELLOS to mìli blízko (bydlí v Chorvatsku)
+    
+2. Použijte pøehrávaè VLC a editor Audacity, abyste:
+    a) Zjistili základní údaje o daném videu: rozlišení, délku, použité kodeky (zvuk i obraz)
+    640x360 / Roz.Hudby 44100Hz   5:04    kodeky: H264-MPEG-4 AVC ; MPEG AAC Audio
+    b) Oddìlili z videa zvukovou stopu ve formátu MP3.
+    GOTM.mp3
+    c) Vytvoøili zkrácenou zvukovou ukázku dlouhou pøesnì 30 sekund s postupným nábìhem zvuku na zaèátku (efekt FadeIn) a zeslabením zvuku na konci (efekt FadeOut).
+      Upravene.mp3

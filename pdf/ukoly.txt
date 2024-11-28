@@ -1,0 +1,39 @@
+Zpracujte dokumenty ve formátu PDF:
+1. Z obou dokumentù uložte vždy jen druhou a tøetí stranu do samostatných souborù - pvy1.pdf a pvy2.pdf.
+2. Spojte oba novì vytvoøené dokumenty do jednoho - pvy.pdf
+3. S využitím automatického pøekladu nechejte pøeložit do nìmèiny a angliètiny text kapitoly "Data, informace, signál".
+ 
+Data are facts obtained from reality, e.g. measured physical quantities 
+(temperature, pressure, mass), historical data, photographs, sound or film 
+recordings, etc.
+ The term information is used to refer to information that has already been evaluated and used to
+data that have been organised into a form that has a specific meaning. Thanks to in
+formations, we form knowledge about the world around us and, on the basis of information
+we can make decisions about our actions. 
+Information has an intangible nature. To store, transmit and process it
+It uses a signal - a physical carrier of information. 
+In its primitive form, a signal can be, for example, a knot on a string, a posted 
+flag on a mast, etc. For machine processing of information, a signal is
+various physical quantities that change their state (electrical to
+voltage, magnetic polarisation, electromagnetic waves, sound waves, 
+gas or fluid pressure...)
+
+ Daten sind aus der Realität gewonnene Fakten, z. B. gemessene physikalische Größen 
+(Temperatur, Druck, Masse), historische Daten, Fotos, Ton- oder Filmaufnahmen 
+Filmaufnahmen, etc.
+ Der Begriff Information wird verwendet, um Informationen zu bezeichnen, die bereits ausgewertet und verwendet wurden, um
+Daten, die in eine Form gebracht wurden, die eine bestimmte Bedeutung hat. Dank der In
+Informationen bilden wir Wissen über die Welt um uns herum und können auf der Grundlage von Informationen
+können wir Entscheidungen über unser Handeln treffen. 
+Informationen sind immaterieller Natur. Um sie zu speichern, zu übertragen und zu verarbeiten
+Sie verwendet ein Signal - einen physischen Träger von Informationen. 
+In seiner primitiven Form kann ein Signal z. B. ein Knoten an einer Schnur sein, eine 
+Fahne an einem Mast usw. Für die maschinelle Informationsverarbeitung ist ein Signal
+verschiedene physikalische Größen, die ihren Zustand ändern (elektrisch in
+Spannung, magnetische Polarisation, elektromagnetische Wellen, Schallwellen, 
+Gas- oder Flüssigkeitsdruck...)
+
+Übersetzt mit DeepL.com (kostenlose Version)
+
+3. Uložte do samostatného souboru PNG obrázek obsahující ukázku fiktivní ISIC karty z téže kapitoly.
+  
